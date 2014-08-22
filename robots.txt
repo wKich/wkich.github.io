@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://wKich.github.io/sitemap.xml 
+Sitemap: http://kich.sc/sitemap.xml 
