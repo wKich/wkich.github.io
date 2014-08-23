@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Kich's UnDev Blog]]></title>
-  <link href="http://kich.sc/atom.xml" rel="self"/>
+  <title><![CDATA[Category: День рождения | Kich's UnDev Blog]]></title>
+  <link href="http://kich.sc/blog/categories/dien'-rozhdieniia/atom.xml" rel="self"/>
   <link href="http://kich.sc/"/>
   <updated>2014-08-23T16:40:51+06:00</updated>
   <id>http://kich.sc/</id>
